@@ -1,0 +1,5 @@
+# Ignore VSCode settings
+.vscode/
+
+# Ignore Python virtual environment
+oop_env/
