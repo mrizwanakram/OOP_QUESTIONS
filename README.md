@@ -1,24 +1,24 @@
 ```markdown
-# Python OOP Questions
+Python OOP Questions
 
 This repository is dedicated to solving and practicing Object-Oriented Programming (OOP) questions in Python. The goal is to enhance programming skills, deepen understanding of OOP concepts, and build a solid foundation in Python.
 
 ## Contents
 
-- **Basic Concepts:**
+**Basic Concepts:**
   - Classes and Objects
   - Attributes and Methods
   - Encapsulation
   - Inheritance
   - Polymorphism
 
-- **Advanced Topics:**
+**Advanced Topics:**
   - Abstract Classes
   - Method Overriding
   - Operator Overloading
   - Multiple Inheritance
 
-- **Practical Exercises:**
+**Practical Exercises:**
   - Implementing real-world problems using OOP
   - Building complex systems with classes and objects
 
