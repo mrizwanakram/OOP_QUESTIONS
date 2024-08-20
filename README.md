@@ -1,4 +1,3 @@
-```markdown
 # Python OOP Questions
 
 This repository is dedicated to solving and practicing Object-Oriented Programming (OOP) questions in Python. The goal is to enhance programming skills, deepen understanding of OOP concepts, and build a solid foundation in Python.
@@ -6,28 +5,28 @@ This repository is dedicated to solving and practicing Object-Oriented Programmi
 ## Contents
 
 **Basic Concepts:**
-  - Classes and Objects
-  - Attributes and Methods
-  - Encapsulation
-  - Inheritance
-  - Polymorphism
+- Classes and Objects
+- Attributes and Methods
+- Encapsulation
+- Inheritance
+- Polymorphism
 
 **Advanced Topics:**
-  - Abstract Classes
-  - Method Overriding
-  - Operator Overloading
-  - Multiple Inheritance
+- Abstract Classes
+- Method Overriding
+- Operator Overloading
+- Multiple Inheritance
 
 **Practical Exercises:**
-  - Implementing real-world problems using OOP
-  - Building complex systems with classes and objects
+- Implementing real-world problems using OOP
+- Building complex systems with classes and objects
 
 ## How to Use
 
 1. Clone the repository:
    ```bash
    git clone git@github.com:mrizwanakram/OOP_QUESTIONS.git
-   ```
+
 
 2. Navigate to the project directory:
    ```bash
