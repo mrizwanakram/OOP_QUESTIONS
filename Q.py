@@ -79,8 +79,6 @@
 # 25. **Method Chaining:**
 #     - Create a `Car` class with methods `start()`, `accelerate()`, and `stop()` that can be chained together.
 
-# 26. **Singleton Pattern:**
-#     - Implement a `DatabaseConnection` class using the singleton design pattern.
 
 # 27. **Decorator Pattern:**
 #     - Implement a `Pizza` class and use a decorator pattern to add toppings like `Cheese` and `Pepperoni`.
